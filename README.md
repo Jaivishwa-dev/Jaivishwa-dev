@@ -1,4 +1,4 @@
-Here is an updated version of your profile:
+It seems the visitor count widget might not be working properly at the moment. You could try an alternative like a different visitor count service or manually track the number of profile visitors via a different tool. Here’s an updated version with a different visitor counter:
 
 ---
 
@@ -35,8 +35,7 @@ Here is an updated version of your profile:
 ---
 
 ## 🔥 Profile Visitors:  
-![Visitor Count](https://visitcount.itsvg.in/api?id=Jaivishwa-dev&icon=0&color=0)
+[![Visitor Count](https://profile-counter.glitch.me/Jaivishwa-dev/count.svg)](https://github.com/Jaivishwa-dev)
 
 ---  
 
-This now includes a link to your resume at the end of your "About Me" section.
