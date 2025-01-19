@@ -1,7 +1,3 @@
-It seems the visitor count widget might not be working properly at the moment. You could try an alternative like a different visitor count service or manually track the number of profile visitors via a different tool. Here’s an updated version with a different visitor counter:
-
----
-
 # 💫 About Me:  
 👋 Hi, I’m **@Jaivishwa-dev**  
 👀 I’m passionate about **Python**, **Django**, and **backend development**.  
@@ -23,19 +19,17 @@ It seems the visitor count widget might not be working properly at the moment. Y
 ---
 
 ## 📊 GitHub Stats:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaivishwa-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jaivishwa-dev&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaivishwa-dev&theme=dark&hide_border=false&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaivishwa-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
 
 ---
 
 ## 🏆 GitHub Trophies:  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jaivishwa-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jaivishwa-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4)  
 
 ---
 
 ## 🔥 Profile Visitors:  
-[![Visitor Count](https://profile-counter.glitch.me/Jaivishwa-dev/count.svg)](https://github.com/Jaivishwa-dev)
+![Visitor Count](https://profile-counter.glitch.me/Jaivishwa-dev/count.svg)  
 
----  
+---
 
