@@ -1,4 +1,5 @@
 
+
 # 💫 About Me:  
 👋 Hi, I’m **@Jaivishwa-dev**  
 👀 I’m passionate about **Python**, **Django**, and **backend development**.  
@@ -6,7 +7,6 @@
 💞️ I’m looking to collaborate on **open-source Django projects** and impactful tech solutions.  
 📫 How to reach me:  
 [📧 Email](mailto:jaivishwa.dev@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/jaivishwa-j/) | [🐙 GitHub](https://github.com/Jaivishwa-dev) 
-
 ---
 
 ## 💻 Tech Stack:  
