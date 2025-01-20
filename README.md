@@ -4,7 +4,9 @@
 🌱 I’m currently learning advanced **Django practices**, **performance optimization**, and **testing strategies**.  
 💞️ I’m looking to collaborate on **open-source Django projects** and impactful tech solutions.  
 📫 How to reach me:  
-[📧 Email](mailto:jaivishwa.dev@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/jaivishwa-j/) | [🐙 GitHub](https://github.com/Jaivishwa-dev) | [📄 Resume](https://jaivishwa.tiiny.site/)  
+[![Email](https://img.shields.io/badge/Email-jaivishwa.dev%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jaivishwa.dev@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaivishwa-j/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jaivishwa-dev)  
 
 ---
 
@@ -50,4 +52,4 @@
 ---
 
 ## 🌐 Social Media  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaivishwa-j/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaivishwa-j/)  
