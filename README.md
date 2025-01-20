@@ -1,6 +1,3 @@
-Here’s the updated version with only LinkedIn as the social media platform and the visitor count formatted to always display 6 digits (e.g., `000016`):
-
----
 
 # 💫 About Me:  
 👋 Hi, I’m **@Jaivishwa-dev**  
@@ -22,6 +19,7 @@ Here’s the updated version with only LinkedIn as the social media platform and
 ### 🎨 Frontend:  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ### ☁️ Cloud & Tools:  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
@@ -35,20 +33,15 @@ Here’s the updated version with only LinkedIn as the social media platform and
 
 ## 🏆 GitHub Trophies:  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaivishwa-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" style="animation: bounce 2s infinite;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jaivishwa-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>  
 
 ---
 
 ## 🔥 Profile Visitors:  
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Jaivishwa-dev/count.svg" alt="Visitor Count" style="border-radius: 10px; animation: fadeIn 3s infinite alternate;">
+  <img src="https://profile-counter.glitch.me/Jaivishwa-dev/count.svg" alt="Visitor Count">
 </div>  
-
-<script>
-  const visitorCount = document.querySelector("img[alt='Visitor Count']");
-  visitorCount.src = visitorCount.src.replace(/(count\.svg)/, '$1?pad=6'); // Ensure it always displays 6 digits.
-</script>
 
 ---
 
