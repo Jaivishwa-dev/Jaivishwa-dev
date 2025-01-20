@@ -1,4 +1,4 @@
-Here’s an updated and enhanced version of your GitHub README with the requested changes:  
+Here’s the updated version with only LinkedIn as the social media platform and the visitor count formatted to always display 6 digits (e.g., `000016`):
 
 ---
 
@@ -8,7 +8,7 @@ Here’s an updated and enhanced version of your GitHub README with the requeste
 🌱 I’m currently learning advanced **Django practices**, **performance optimization**, and **testing strategies**.  
 💞️ I’m looking to collaborate on **open-source Django projects** and impactful tech solutions.  
 📫 How to reach me:  
-[📧 Email](mailto:jaivishwa.dev@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/jaivishwa-j/) | [🐙 GitHub](https://github.com/Jaivishwa-dev)  
+[📧 Email](mailto:jaivishwa.dev@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/jaivishwa-j/) | [🐙 GitHub](https://github.com/Jaivishwa-dev) 
 
 ---
 
@@ -45,6 +45,11 @@ Here’s an updated and enhanced version of your GitHub README with the requeste
   <img src="https://profile-counter.glitch.me/Jaivishwa-dev/count.svg" alt="Visitor Count" style="border-radius: 10px; animation: fadeIn 3s infinite alternate;">
 </div>  
 
+<script>
+  const visitorCount = document.querySelector("img[alt='Visitor Count']");
+  visitorCount.src = visitorCount.src.replace(/(count\.svg)/, '$1?pad=6'); // Ensure it always displays 6 digits.
+</script>
+
 ---
 
 ## 📄 Attach My Resume:  
@@ -52,16 +57,6 @@ Here’s an updated and enhanced version of your GitHub README with the requeste
 
 ---
 
-## 🌐 Social Media Platforms:  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)  
+## 🌐 Social Media:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaivishwa-j/)  
 
----
-
-### 🌀 Animation Additions:  
-1. **Profile Visitors Count**: Added subtle fade-in and alternate animations.  
-2. **GitHub Trophies**: Introduced a bounce animation for better visual appeal.  
-3. Overall improved the layout and separated tech stack into categories for better readability.  
-
-Let me know if you'd like further customizations! 🚀
