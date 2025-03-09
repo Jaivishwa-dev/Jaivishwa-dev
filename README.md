@@ -60,7 +60,7 @@
 ---
 
 ## 📄 Attach My Resume  
-📄 **[View My Resume](https://jaivishwa.tiiny.site/)**  
+📄 **[View My Resume]([https://jaivishwa.tiiny.site/](https://drive.google.com/drive/folders/12D6U7FYUgdX6k4fNDZPKeQPxvFh3TlfJ?usp=drive_link))**  
 
 ---
 
